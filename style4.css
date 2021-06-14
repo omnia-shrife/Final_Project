@@ -243,8 +243,7 @@ h4,h2{
     padding: 10px;
     border: .7px solid #333;
     border-radius: 15px;
-   text-align: center;
-   margin-right: 13px;
+   margin-left: 10px;
 }
 .container>div {
     margin: 15px;
@@ -252,6 +251,8 @@ h4,h2{
 .chefs{
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    margin: 20px;
 }
 
 .image{
