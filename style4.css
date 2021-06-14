@@ -246,7 +246,7 @@ h4,h2{
    margin-left: 10px;
 }
 .container>div {
-    margin: 15px;
+    margin: 0;
 }
 .chefs{
     display: flex;
